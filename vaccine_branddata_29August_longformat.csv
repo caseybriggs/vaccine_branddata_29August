@@ -1,0 +1,225 @@
+period,vaccine,facilities,jurisdiction,doses,ge_16_pop,total_pop
+Weeks 1 - 25 (22 Feb),Pfizer,States andTerritories,NSW,1692289,6565651,8167532
+Weeks 1 - 25 (22 Feb),AZ,States andTerritories,NSW,162055,6565651,8167532
+Week 26 (16 Aug),Pfizer,States andTerritories,NSW,265811,6565651,8167532
+Week 26 (16 Aug),AZ,States andTerritories,NSW,13821,6565651,8167532
+Week 27 (23 Aug),Pfizer,States andTerritories,NSW,280421,6565651,8167532
+Week 27 (23 Aug),AZ,States andTerritories,NSW,11798,6565651,8167532
+Total (Week 1 - Week 27),Pfizer,States andTerritories,NSW,2238521,6565651,8167532
+Total (Week 1 - Week 27),AZ,States andTerritories,NSW,187674,6565651,8167532
+Weeks 1 - 25 (22 Feb),Pfizer,Aged Care &Disability(residentsand staff),NSW,306396,6565651,8167532
+Weeks 1 - 25 (22 Feb),AZ,Aged Care &Disability(residentsand staff),NSW,153,6565651,8167532
+Week 26 (16 Aug),Pfizer,Aged Care &Disability(residentsand staff),NSW,28439,6565651,8167532
+Week 26 (16 Aug),AZ,Aged Care &Disability(residentsand staff),NSW,103,6565651,8167532
+Week 27 (23 Aug),Pfizer,Aged Care &Disability(residentsand staff),NSW,26820,6565651,8167532
+Week 27 (23 Aug),AZ,Aged Care &Disability(residentsand staff),NSW,63,6565651,8167532
+Total (Week 1 - Week 27),Pfizer,Aged Care &Disability(residentsand staff),NSW,361655,6565651,8167532
+Total (Week 1 - Week 27),AZ,Aged Care &Disability(residentsand staff),NSW,319,6565651,8167532
+Weeks 1 - 25 (22 Feb),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",NSW,504449,6565651,8167532
+Weeks 1 - 25 (22 Feb),AZ,"GPs, CVCs, ACCHS & Pharmacies",NSW,2583394,6565651,8167532
+Week 26 (16 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",NSW,158113,6565651,8167532
+Week 26 (16 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",NSW,277635,6565651,8167532
+Week 27 (23 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",NSW,147477,6565651,8167532
+Week 27 (23 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",NSW,245710,6565651,8167532
+Total (Week 1 - Week 27),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",NSW,810039,6565651,8167532
+Total (Week 1 - Week 27),AZ,"GPs, CVCs, ACCHS & Pharmacies",NSW,3106739,6565651,8167532
+Weeks 1 - 25 (22 Feb),Pfizer,States andTerritories,VIC,1397942,5407574,6696670
+Weeks 1 - 25 (22 Feb),AZ,States andTerritories,VIC,546581,5407574,6696670
+Week 26 (16 Aug),Pfizer,States andTerritories,VIC,124596,5407574,6696670
+Week 26 (16 Aug),AZ,States andTerritories,VIC,58987,5407574,6696670
+Week 27 (23 Aug),Pfizer,States andTerritories,VIC,161703,5407574,6696670
+Week 27 (23 Aug),AZ,States andTerritories,VIC,42949,5407574,6696670
+Total (Week 1 - Week 27),Pfizer,States andTerritories,VIC,1684241,5407574,6696670
+Total (Week 1 - Week 27),AZ,States andTerritories,VIC,648517,5407574,6696670
+Weeks 1 - 25 (22 Feb),Pfizer,Aged Care &Disability(residentsand staff),VIC,129687,5407574,6696670
+Weeks 1 - 25 (22 Feb),AZ,Aged Care &Disability(residentsand staff),VIC,297,5407574,6696670
+Week 26 (16 Aug),Pfizer,Aged Care &Disability(residentsand staff),VIC,6450,5407574,6696670
+Week 26 (16 Aug),AZ,Aged Care &Disability(residentsand staff),VIC,21,5407574,6696670
+Week 27 (23 Aug),Pfizer,Aged Care &Disability(residentsand staff),VIC,5501,5407574,6696670
+Week 27 (23 Aug),AZ,Aged Care &Disability(residentsand staff),VIC,49,5407574,6696670
+Total (Week 1 - Week 27),Pfizer,Aged Care &Disability(residentsand staff),VIC,141638,5407574,6696670
+Total (Week 1 - Week 27),AZ,Aged Care &Disability(residentsand staff),VIC,367,5407574,6696670
+Weeks 1 - 25 (22 Feb),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",VIC,297987,5407574,6696670
+Weeks 1 - 25 (22 Feb),AZ,"GPs, CVCs, ACCHS & Pharmacies",VIC,1651582,5407574,6696670
+Week 26 (16 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",VIC,79544,5407574,6696670
+Week 26 (16 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",VIC,148823,5407574,6696670
+Week 27 (23 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",VIC,75273,5407574,6696670
+Week 27 (23 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",VIC,157596,5407574,6696670
+Total (Week 1 - Week 27),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",VIC,452804,5407574,6696670
+Total (Week 1 - Week 27),AZ,"GPs, CVCs, ACCHS & Pharmacies",VIC,1958001,5407574,6696670
+Weeks 1 - 25 (22 Feb),Pfizer,States andTerritories,QLD,960071,4112707,5176186
+Weeks 1 - 25 (22 Feb),AZ,States andTerritories,QLD,139283,4112707,5176186
+Week 26 (16 Aug),Pfizer,States andTerritories,QLD,106113,4112707,5176186
+Week 26 (16 Aug),AZ,States andTerritories,QLD,4355,4112707,5176186
+Week 27 (23 Aug),Pfizer,States andTerritories,QLD,105963,4112707,5176186
+Week 27 (23 Aug),AZ,States andTerritories,QLD,3160,4112707,5176186
+Total (Week 1 - Week 27),Pfizer,States andTerritories,QLD,1172147,4112707,5176186
+Total (Week 1 - Week 27),AZ,States andTerritories,QLD,146798,4112707,5176186
+Weeks 1 - 25 (22 Feb),Pfizer,Aged Care &Disability(residentsand staff),QLD,101253,4112707,5176186
+Weeks 1 - 25 (22 Feb),AZ,Aged Care &Disability(residentsand staff),QLD,547,4112707,5176186
+Week 26 (16 Aug),Pfizer,Aged Care &Disability(residentsand staff),QLD,6935,4112707,5176186
+Week 26 (16 Aug),AZ,Aged Care &Disability(residentsand staff),QLD,43,4112707,5176186
+Week 27 (23 Aug),Pfizer,Aged Care &Disability(residentsand staff),QLD,7676,4112707,5176186
+Week 27 (23 Aug),AZ,Aged Care &Disability(residentsand staff),QLD,8,4112707,5176186
+Total (Week 1 - Week 27),Pfizer,Aged Care &Disability(residentsand staff),QLD,115864,4112707,5176186
+Total (Week 1 - Week 27),AZ,Aged Care &Disability(residentsand staff),QLD,598,4112707,5176186
+Weeks 1 - 25 (22 Feb),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",QLD,228057,4112707,5176186
+Weeks 1 - 25 (22 Feb),AZ,"GPs, CVCs, ACCHS & Pharmacies",QLD,1431193,4112707,5176186
+Week 26 (16 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",QLD,61746,4112707,5176186
+Week 26 (16 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",QLD,102017,4112707,5176186
+Week 27 (23 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",QLD,53969,4112707,5176186
+Week 27 (23 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",QLD,85686,4112707,5176186
+Total (Week 1 - Week 27),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",QLD,343772,4112707,5176186
+Total (Week 1 - Week 27),AZ,"GPs, CVCs, ACCHS & Pharmacies",QLD,1618896,4112707,5176186
+Weeks 1 - 25 (22 Feb),Pfizer,States andTerritories,WA,478584,2114978,2663561
+Weeks 1 - 25 (22 Feb),AZ,States andTerritories,WA,152597,2114978,2663561
+Week 26 (16 Aug),Pfizer,States andTerritories,WA,84706,2114978,2663561
+Week 26 (16 Aug),AZ,States andTerritories,WA,8718,2114978,2663561
+Week 27 (23 Aug),Pfizer,States andTerritories,WA,82030,2114978,2663561
+Week 27 (23 Aug),AZ,States andTerritories,WA,8077,2114978,2663561
+Total (Week 1 - Week 27),Pfizer,States andTerritories,WA,645320,2114978,2663561
+Total (Week 1 - Week 27),AZ,States andTerritories,WA,169392,2114978,2663561
+Weeks 1 - 25 (22 Feb),Pfizer,Aged Care &Disability(residentsand staff),WA,49505,2114978,2663561
+Weeks 1 - 25 (22 Feb),AZ,Aged Care &Disability(residentsand staff),WA,332,2114978,2663561
+Week 26 (16 Aug),Pfizer,Aged Care &Disability(residentsand staff),WA,1663,2114978,2663561
+Week 26 (16 Aug),AZ,Aged Care &Disability(residentsand staff),WA,5,2114978,2663561
+Week 27 (23 Aug),Pfizer,Aged Care &Disability(residentsand staff),WA,1624,2114978,2663561
+Week 27 (23 Aug),AZ,Aged Care &Disability(residentsand staff),WA,1,2114978,2663561
+Total (Week 1 - Week 27),Pfizer,Aged Care &Disability(residentsand staff),WA,52792,2114978,2663561
+Total (Week 1 - Week 27),AZ,Aged Care &Disability(residentsand staff),WA,338,2114978,2663561
+Weeks 1 - 25 (22 Feb),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",WA,105308,2114978,2663561
+Weeks 1 - 25 (22 Feb),AZ,"GPs, CVCs, ACCHS & Pharmacies",WA,613905,2114978,2663561
+Week 26 (16 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",WA,27134,2114978,2663561
+Week 26 (16 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",WA,42569,2114978,2663561
+Week 27 (23 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",WA,25230,2114978,2663561
+Week 27 (23 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",WA,40908,2114978,2663561
+Total (Week 1 - Week 27),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",WA,157672,2114978,2663561
+Total (Week 1 - Week 27),AZ,"GPs, CVCs, ACCHS & Pharmacies",WA,697382,2114978,2663561
+Weeks 1 - 25 (22 Feb),Pfizer,States andTerritories,SA,386524,1440400,1770375
+Weeks 1 - 25 (22 Feb),AZ,States andTerritories,SA,70137,1440400,1770375
+Week 26 (16 Aug),Pfizer,States andTerritories,SA,35304,1440400,1770375
+Week 26 (16 Aug),AZ,States andTerritories,SA,6713,1440400,1770375
+Week 27 (23 Aug),Pfizer,States andTerritories,SA,36691,1440400,1770375
+Week 27 (23 Aug),AZ,States andTerritories,SA,7357,1440400,1770375
+Total (Week 1 - Week 27),Pfizer,States andTerritories,SA,458519,1440400,1770375
+Total (Week 1 - Week 27),AZ,States andTerritories,SA,84207,1440400,1770375
+Weeks 1 - 25 (22 Feb),Pfizer,Aged Care &Disability(residentsand staff),SA,46028,1440400,1770375
+Weeks 1 - 25 (22 Feb),AZ,Aged Care &Disability(residentsand staff),SA,15,1440400,1770375
+Week 26 (16 Aug),Pfizer,Aged Care &Disability(residentsand staff),SA,1901,1440400,1770375
+Week 26 (16 Aug),AZ,Aged Care &Disability(residentsand staff),SA,2,1440400,1770375
+Week 27 (23 Aug),Pfizer,Aged Care &Disability(residentsand staff),SA,1556,1440400,1770375
+Week 27 (23 Aug),AZ,Aged Care &Disability(residentsand staff),SA,1,1440400,1770375
+Total (Week 1 - Week 27),Pfizer,Aged Care &Disability(residentsand staff),SA,49485,1440400,1770375
+Total (Week 1 - Week 27),AZ,Aged Care &Disability(residentsand staff),SA,18,1440400,1770375
+Weeks 1 - 25 (22 Feb),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",SA,70202,1440400,1770375
+Weeks 1 - 25 (22 Feb),AZ,"GPs, CVCs, ACCHS & Pharmacies",SA,468784,1440400,1770375
+Week 26 (16 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",SA,19110,1440400,1770375
+Week 26 (16 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",SA,31036,1440400,1770375
+Week 27 (23 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",SA,17238,1440400,1770375
+Week 27 (23 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",SA,31502,1440400,1770375
+Total (Week 1 - Week 27),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",SA,106550,1440400,1770375
+Total (Week 1 - Week 27),AZ,"GPs, CVCs, ACCHS & Pharmacies",SA,531322,1440400,1770375
+Weeks 1 - 25 (22 Feb),Pfizer,States andTerritories,TAS,157618,440172,540780
+Weeks 1 - 25 (22 Feb),AZ,States andTerritories,TAS,45518,440172,540780
+Week 26 (16 Aug),Pfizer,States andTerritories,TAS,13911,440172,540780
+Week 26 (16 Aug),AZ,States andTerritories,TAS,2355,440172,540780
+Week 27 (23 Aug),Pfizer,States andTerritories,TAS,13844,440172,540780
+Week 27 (23 Aug),AZ,States andTerritories,TAS,2383,440172,540780
+Total (Week 1 - Week 27),Pfizer,States andTerritories,TAS,185373,440172,540780
+Total (Week 1 - Week 27),AZ,States andTerritories,TAS,50256,440172,540780
+Weeks 1 - 25 (22 Feb),Pfizer,Aged Care &Disability(residentsand staff),TAS,14792,440172,540780
+Weeks 1 - 25 (22 Feb),AZ,Aged Care &Disability(residentsand staff),TAS,7,440172,540780
+Week 26 (16 Aug),Pfizer,Aged Care &Disability(residentsand staff),TAS,512,440172,540780
+Week 26 (16 Aug),AZ,Aged Care &Disability(residentsand staff),TAS,1,440172,540780
+Week 27 (23 Aug),Pfizer,Aged Care &Disability(residentsand staff),TAS,459,440172,540780
+Week 27 (23 Aug),AZ,Aged Care &Disability(residentsand staff),TAS,0,440172,540780
+Total (Week 1 - Week 27),Pfizer,Aged Care &Disability(residentsand staff),TAS,15763,440172,540780
+Total (Week 1 - Week 27),AZ,Aged Care &Disability(residentsand staff),TAS,8,440172,540780
+Weeks 1 - 25 (22 Feb),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",TAS,16744,440172,540780
+Weeks 1 - 25 (22 Feb),AZ,"GPs, CVCs, ACCHS & Pharmacies",TAS,149804,440172,540780
+Week 26 (16 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",TAS,3959,440172,540780
+Week 26 (16 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",TAS,9658,440172,540780
+Week 27 (23 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",TAS,2989,440172,540780
+Week 27 (23 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",TAS,8447,440172,540780
+Total (Week 1 - Week 27),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",TAS,23692,440172,540780
+Total (Week 1 - Week 27),AZ,"GPs, CVCs, ACCHS & Pharmacies",TAS,167909,440172,540780
+Weeks 1 - 25 (22 Feb),Pfizer,States andTerritories,NT,98563,190571,246143
+Weeks 1 - 25 (22 Feb),AZ,States andTerritories,NT,9454,190571,246143
+Week 26 (16 Aug),Pfizer,States andTerritories,NT,8309,190571,246143
+Week 26 (16 Aug),AZ,States andTerritories,NT,1025,190571,246143
+Week 27 (23 Aug),Pfizer,States andTerritories,NT,6430,190571,246143
+Week 27 (23 Aug),AZ,States andTerritories,NT,683,190571,246143
+Total (Week 1 - Week 27),Pfizer,States andTerritories,NT,113302,190571,246143
+Total (Week 1 - Week 27),AZ,States andTerritories,NT,11162,190571,246143
+Weeks 1 - 25 (22 Feb),Pfizer,Aged Care &Disability(residentsand staff),NT,3026,190571,246143
+Weeks 1 - 25 (22 Feb),AZ,Aged Care &Disability(residentsand staff),NT,93,190571,246143
+Week 26 (16 Aug),Pfizer,Aged Care &Disability(residentsand staff),NT,344,190571,246143
+Week 26 (16 Aug),AZ,Aged Care &Disability(residentsand staff),NT,1,190571,246143
+Week 27 (23 Aug),Pfizer,Aged Care &Disability(residentsand staff),NT,63,190571,246143
+Week 27 (23 Aug),AZ,Aged Care &Disability(residentsand staff),NT,0,190571,246143
+Total (Week 1 - Week 27),Pfizer,Aged Care &Disability(residentsand staff),NT,3433,190571,246143
+Total (Week 1 - Week 27),AZ,Aged Care &Disability(residentsand staff),NT,94,190571,246143
+Weeks 1 - 25 (22 Feb),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",NT,25423,190571,246143
+Weeks 1 - 25 (22 Feb),AZ,"GPs, CVCs, ACCHS & Pharmacies",NT,38332,190571,246143
+Week 26 (16 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",NT,4173,190571,246143
+Week 26 (16 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",NT,2304,190571,246143
+Week 27 (23 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",NT,3352,190571,246143
+Week 27 (23 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",NT,2258,190571,246143
+Total (Week 1 - Week 27),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",NT,32948,190571,246143
+Total (Week 1 - Week 27),AZ,"GPs, CVCs, ACCHS & Pharmacies",NT,42894,190571,246143
+Weeks 1 - 25 (22 Feb),Pfizer,States andTerritories,ACT,154152,344037,431380
+Weeks 1 - 25 (22 Feb),AZ,States andTerritories,ACT,25471,344037,431380
+Week 26 (16 Aug),Pfizer,States andTerritories,ACT,16100,344037,431380
+Week 26 (16 Aug),AZ,States andTerritories,ACT,1133,344037,431380
+Week 27 (23 Aug),Pfizer,States andTerritories,ACT,7298,344037,431380
+Week 27 (23 Aug),AZ,States andTerritories,ACT,569,344037,431380
+Total (Week 1 - Week 27),Pfizer,States andTerritories,ACT,177550,344037,431380
+Total (Week 1 - Week 27),AZ,States andTerritories,ACT,27173,344037,431380
+Weeks 1 - 25 (22 Feb),Pfizer,Aged Care &Disability(residentsand staff),ACT,19401,344037,431380
+Weeks 1 - 25 (22 Feb),AZ,Aged Care &Disability(residentsand staff),ACT,694,344037,431380
+Week 26 (16 Aug),Pfizer,Aged Care &Disability(residentsand staff),ACT,1544,344037,431380
+Week 26 (16 Aug),AZ,Aged Care &Disability(residentsand staff),ACT,0,344037,431380
+Week 27 (23 Aug),Pfizer,Aged Care &Disability(residentsand staff),ACT,968,344037,431380
+Week 27 (23 Aug),AZ,Aged Care &Disability(residentsand staff),ACT,2,344037,431380
+Total (Week 1 - Week 27),Pfizer,Aged Care &Disability(residentsand staff),ACT,21913,344037,431380
+Total (Week 1 - Week 27),AZ,Aged Care &Disability(residentsand staff),ACT,696,344037,431380
+Weeks 1 - 25 (22 Feb),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",ACT,17822,344037,431380
+Weeks 1 - 25 (22 Feb),AZ,"GPs, CVCs, ACCHS & Pharmacies",ACT,116982,344037,431380
+Week 26 (16 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",ACT,4391,344037,431380
+Week 26 (16 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",ACT,14331,344037,431380
+Week 27 (23 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",ACT,4723,344037,431380
+Week 27 (23 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",ACT,12904,344037,431380
+Total (Week 1 - Week 27),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",ACT,26936,344037,431380
+Total (Week 1 - Week 27),AZ,"GPs, CVCs, ACCHS & Pharmacies",ACT,144217,344037,431380
+Weeks 1 - 25 (22 Feb),Pfizer,States andTerritories,AUS,5325743,20616090,25692627
+Weeks 1 - 25 (22 Feb),AZ,States andTerritories,AUS,1151096,20616090,25692627
+Week 26 (16 Aug),Pfizer,States andTerritories,AUS,654850,20616090,25692627
+Week 26 (16 Aug),AZ,States andTerritories,AUS,97107,20616090,25692627
+Week 27 (23 Aug),Pfizer,States andTerritories,AUS,694380,20616090,25692627
+Week 27 (23 Aug),AZ,States andTerritories,AUS,76976,20616090,25692627
+Total (Week 1 - Week 27),Pfizer,States andTerritories,AUS,6674973,20616090,25692627
+Total (Week 1 - Week 27),AZ,States andTerritories,AUS,1325179,20616090,25692627
+Weeks 1 - 25 (22 Feb),Pfizer,Aged Care &Disability(residentsand staff),AUS,670088,20616090,25692627
+Weeks 1 - 25 (22 Feb),AZ,Aged Care &Disability(residentsand staff),AUS,2138,20616090,25692627
+Week 26 (16 Aug),Pfizer,Aged Care &Disability(residentsand staff),AUS,47788,20616090,25692627
+Week 26 (16 Aug),AZ,Aged Care &Disability(residentsand staff),AUS,176,20616090,25692627
+Week 27 (23 Aug),Pfizer,Aged Care &Disability(residentsand staff),AUS,44667,20616090,25692627
+Week 27 (23 Aug),AZ,Aged Care &Disability(residentsand staff),AUS,124,20616090,25692627
+Total (Week 1 - Week 27),Pfizer,Aged Care &Disability(residentsand staff),AUS,762543,20616090,25692627
+Total (Week 1 - Week 27),AZ,Aged Care &Disability(residentsand staff),AUS,2438,20616090,25692627
+Weeks 1 - 25 (22 Feb),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",AUS,1265992,20616090,25692627
+Weeks 1 - 25 (22 Feb),AZ,"GPs, CVCs, ACCHS & Pharmacies",AUS,7053976,20616090,25692627
+Week 26 (16 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",AUS,358170,20616090,25692627
+Week 26 (16 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",AUS,628373,20616090,25692627
+Week 27 (23 Aug),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",AUS,330251,20616090,25692627
+Week 27 (23 Aug),AZ,"GPs, CVCs, ACCHS & Pharmacies",AUS,585011,20616090,25692627
+Total (Week 1 - Week 27),Pfizer,"GPs, CVCs, ACCHS & Pharmacies",AUS,1954413,20616090,25692627
+Total (Week 1 - Week 27),AZ,"GPs, CVCs, ACCHS & Pharmacies",AUS,8267360,20616090,25692627
+Weeks 1 - 25 (22 Feb),Pfizer,"Other (incl. South Pacific, DFAT,Defence, Olympics)",AUS,82863,20616090,25692627
+Weeks 1 - 25 (22 Feb),AZ,"Other (incl. South Pacific, DFAT,Defence, Olympics)",AUS,8406,20616090,25692627
+Week 26 (16 Aug),Pfizer,"Other (incl. South Pacific, DFAT,Defence, Olympics)",AUS,4740,20616090,25692627
+Week 26 (16 Aug),AZ,"Other (incl. South Pacific, DFAT,Defence, Olympics)",AUS,528,20616090,25692627
+Week 27 (23 Aug),Pfizer,"Other (incl. South Pacific, DFAT,Defence, Olympics)",AUS,2015,20616090,25692627
+Week 27 (23 Aug),AZ,"Other (incl. South Pacific, DFAT,Defence, Olympics)",AUS,283,20616090,25692627
+Total (Week 1 - Week 27),Pfizer,"Other (incl. South Pacific, DFAT,Defence, Olympics)",AUS,89618,20616090,25692627
+Total (Week 1 - Week 27),AZ,"Other (incl. South Pacific, DFAT,Defence, Olympics)",AUS,9217,20616090,25692627
